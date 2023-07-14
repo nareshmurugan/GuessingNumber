@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: yellow;
+}
+.card{
+    text-align: center;
+    background: rgb(4, 235, 62);
+    margin: auto;
+    margin-top: 150px;
+    height: 280px;
+    width: 600px;
+    border: 10px solid rgb(3, 49, 3);
+}
+
+input{
+    border: none;
+    outline: none;
+    height: 25px;
+    width: 200px;
+    padding-left: 5px;
+    font-size: 25px;
+}
+button{
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2) ;
+}
+button:hover{
+    opacity: 1;
+}
